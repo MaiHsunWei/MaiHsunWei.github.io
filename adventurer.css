@@ -2,4 +2,13 @@
     height:150px;
     width:150px;
 }
+.gold{
+    background-image:url(./古印金條.png);
+}
+.box{
+    background-image:url(./黃金船寶箱.png);
+}
+.peril{
+    background-image:url(./深海明珠.png);
+}
 
