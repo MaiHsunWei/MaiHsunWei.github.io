@@ -1,7 +1,8 @@
 .item{
-    height:150px;
-    width:150px;
+    height:300px;
+    width:300px;
     background-size: 100%;
+    display:inline-block;
 }
 .gold{
     background-image:url(./古印金條.png);
@@ -12,4 +13,12 @@
 .peril{
     background-image:url(./深海明珠.png);
 }
+@media (max-width: 414px){
+    .bottom{
+          margin-top: 85%;
+    }
+}
+.bottom{
+          margin-top: 45%;
+ }
 
